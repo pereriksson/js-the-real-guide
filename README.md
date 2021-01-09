@@ -10,7 +10,7 @@ Whenever a function is executed, a new execution context gets created.
 
 For this reason, scope and execution context are closely related, but not the same.
 
-Execution Context Creation
+### Execution Context Creation
 
 When a new execution context is created on a function call, the JavaScript engine needs to spend a little bit of time to configure it, in preparation for the execution.
 
